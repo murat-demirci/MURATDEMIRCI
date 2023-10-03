@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏽‍💻 I am a 4th-year computer engineering student at Erciyes University.<br>✨ Develop software projects using Asp.net core and I am constantly striving to improve my skills in this area.<br>✨ Always open to learning and developing my skills. <br>✨ Determined and passionate individual who always aims for the best. <br><br>
+✨ Develop software projects using Asp.net core and I am constantly striving to improve my skills in this area.<br>✨ Always open to learning and developing my skills. <br>✨ Determined and passionate individual who always aims for the best. <br><br>
 
 
 ## 🌐 Socials:
